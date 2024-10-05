@@ -44,7 +44,9 @@ Fontes de emojis --> https://emojipedia.org/
 Ajuda pra programar --> https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo para mais detalhes.
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
 
 ## Como Replicar e Executar o Projeto
 
