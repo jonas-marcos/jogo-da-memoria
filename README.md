@@ -33,7 +33,7 @@ O objetivo do jogo é encontrar todos os pares de cartas. As cartas ficam virada
    - Após o jogo terminar, você pode reiniciar a partida clicando no botão "Reiniciar Jogo".
 
 ## Créditos
-Este projeto foi desenvolvido por **Jonas Marcos Dias Rocha**
+Este projeto foi desenvolvido por **Jonas Marcos Dias Rocha**.
 
 **Referências e fontes utilizadas:**
 
