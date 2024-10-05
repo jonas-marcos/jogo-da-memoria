@@ -32,6 +32,20 @@ O objetivo do jogo é encontrar todos os pares de cartas. As cartas ficam virada
 5. **Reiniciar o Jogo:**
    - Após o jogo terminar, você pode reiniciar a partida clicando no botão "Reiniciar Jogo".
 
+## Créditos
+Este projeto foi desenvolvido por **Jonas Marcos Dias Rocha**
+
+**Referências e fontes utilizadas:**
+
+Informações sobre como funciona o jogo da memória --> https://pt.wikipedia.org/wiki/Jogo_de_mem%C3%B3ria
+
+Fontes de emojis --> https://emojipedia.org/
+
+Ajuda pra programar --> https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo para mais detalhes.
+
 ## Como Replicar e Executar o Projeto
 
 1. **Clone este repositório:**
